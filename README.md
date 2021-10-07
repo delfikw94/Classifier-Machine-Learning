@@ -1,2 +1,1 @@
-# Classifier-Machine-Learning
-Predictive Model for Customer Retention on Credit Card Service
+Deployment link : https://mls2.herokuapp.com
